@@ -1,0 +1,36 @@
+body{
+
+}
+/*饼图*/
+#main1{
+    margin-left: 530px;
+    top: -10px;
+}
+/*雷达图*/
+#main2{
+    position: relative;
+    top: -260px;
+}
+/*折线图*/
+#main3{
+    position: relative;
+    margin-left: 1287px;
+    top: -1160px;
+}
+/*气泡图*/
+#main4{
+    position: relative;
+    top: -1560px;
+}
+/*柱状图*/
+#main5{
+    position: relative;
+    top: -1310px;
+    left: 530px;
+}
+/*k线箱图*/
+#main6{
+    position: relative;
+    top:-1810px;
+    margin-left: 1287px;
+}
